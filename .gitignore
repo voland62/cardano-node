@@ -71,3 +71,10 @@ cardano-tracer/cardano-tracer-test
 
 # IntellIJ project folder
 .idea/
+
+
+/cardano-cli-build
+
+/my-cardano-testnet
+/my-preview
+/ttt
